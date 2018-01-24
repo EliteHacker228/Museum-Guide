@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\AndroidStudioProjects\\MuseumGuide\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "outputFile": "C:\\Users\\Bober\\Desktop\\Museum-Guide-0.2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
-                    "source": "C:\\Games\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\18f2d846b5c6ae86099d132bffe1ec75\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\Bober\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\9eed9b3240e6a4926acd72e82a9e73f0\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Games\\gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\6d7a5d2306f1b54ab60efe0fbc4e6422\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\Bober\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\fb2d4e2545061363f32f957ed95e110a\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

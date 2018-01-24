@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\AndroidStudioProjects\\MuseumGuide\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "outputFile": "C:\\Users\\Bober\\Desktop\\Museum-Guide-0.2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Games\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\18f2d846b5c6ae86099d132bffe1ec75\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\Bober\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\9eed9b3240e6a4926acd72e82a9e73f0\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Games\\gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\df415df2259b44de99adb5cb7a585552\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\Bober\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\ccf31fc9146cc1a996a590b8779030d1\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

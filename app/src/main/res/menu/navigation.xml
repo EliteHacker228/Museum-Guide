@@ -15,5 +15,9 @@
         android:id="@+id/navigation_tickets"
         android:icon="@drawable/ic_tickets_black_24dp"
         android:title="@string/title_tickets"/>
+    <item
+        android:id="@+id/navigation_museums2"
+        android:icon="@drawable/ic_museum_black_24dp"
+        android:title="@string/title_museums"/>
 
 </menu>

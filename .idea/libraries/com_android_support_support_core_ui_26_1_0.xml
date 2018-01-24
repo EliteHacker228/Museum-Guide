@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="com.android.support:support-core-ui-26.1.0">
     <CLASSES>
-      <root url="jar://C:/Games/gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/e573d235dbe354bfc33d1e7e3db756da/jars/classes.jar!/" />
-      <root url="file://C:/Games/gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/e573d235dbe354bfc33d1e7e3db756da/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/9a9e4f40d7d5282f37b12b8d4533c859/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/9a9e4f40d7d5282f37b12b8d4533c859/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://C:/Games/gradle/caches/modules-2/files-2.1/com.android.support/support-core-ui/26.1.0/4d52cef4a24bf9939de1d256ca9f0974c6e636a4/support-core-ui-26.1.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-core-ui/26.1.0/4d52cef4a24bf9939de1d256ca9f0974c6e636a4/support-core-ui-26.1.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
