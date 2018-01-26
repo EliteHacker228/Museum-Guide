@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MuseumGuide</string>
+    <string name="title_news">Новости</string>
+    <string name="title_museums">Музеи</string>
+    <string name="title_tickets">Билеты</string>
+    <string name="title_map">Карта</string>
+</resources>
